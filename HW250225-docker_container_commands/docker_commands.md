@@ -69,7 +69,7 @@ upload a video showing you are familiar with the following docker container comm
 
 ### Process Status (PS) in Docker
 * 列出容器狀態
-    * ```docker container ps –l (-a)```
+    * ```docker container ps -l (-a)```
     * ```-l``` 最新的容器
     * ```-a``` 所有容器
     * ```-q``` 僅顯示ID
@@ -85,7 +85,7 @@ upload a video showing you are familiar with the following docker container comm
 
 ### Exec
 * 執行命令
-    * ```docker container exec –it <id> bash```
+    * ```docker container exec -it <id> bash```
     * ```docker container exec <id> ps -aef```
 
 ### Remove Container
