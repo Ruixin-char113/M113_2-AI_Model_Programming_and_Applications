@@ -13,7 +13,7 @@ container starts? The default address used to ping should be
 Create a Dockerfile that uses multiple steps to create an image of a Hello World app of minimal size, written in C
 
 ## Demo Video on YouTube
-
+[<img src="https://img.youtube.com/vi/VA8ql94by_g/maxresdefault.jpg" width="50%">](https://youtu.be/VA8ql94by_g)
 
 ## 實驗
 
