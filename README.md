@@ -14,3 +14,8 @@ National Formosa University CSIE 2024 AI model programming and applications
 
 ### HW250401-exercises_for_function_and_generator
 * function, generator
+
+### HW250408-Exercises_for_decorators,_class,_and_file_I/O
+* read data
+* class
+* multiple decorator
