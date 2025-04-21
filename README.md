@@ -19,3 +19,7 @@ National Formosa University CSIE 2024 AI model programming and applications
 * read data
 * class
 * multiple decorator
+
+### HW250415-introduction_to_numpy_matplotlib_pandas
+* numpy
+* matplotlib
