@@ -23,3 +23,7 @@ National Formosa University CSIE 2024 AI model programming and applications
 ### HW250415-introduction_to_numpy_matplotlib_pandas
 * numpy
 * matplotlib
+
+### HW250422-Exercise_of_PANDAS
+* matplotlib
+* pandas
