@@ -27,3 +27,6 @@ National Formosa University CSIE 2024 AI model programming and applications
 ### HW250422-Exercise_of_PANDAS
 * matplotlib
 * pandas
+
+### HW250429-back_propagation_algorithm
+* Backpropagation algorithm
