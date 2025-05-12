@@ -30,3 +30,6 @@ National Formosa University CSIE 2024 AI model programming and applications
 
 ### HW250429-back_propagation_algorithm
 * Backpropagation algorithm
+
+### HW250506-implement_a_neural_network
+* 利用 PyTorch 實作 Backpropagation algorithm
