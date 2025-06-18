@@ -33,3 +33,18 @@ National Formosa University CSIE 2024 AI model programming and applications
 
 ### HW250506-implement_a_neural_network
 * 利用 PyTorch 實作 Backpropagation algorithm
+
+### HW250513-implement_a_customized_neural_network
+* 利用 Class 建立模型
+* IRIS dataset classifier
+
+### HW250520-prepare_the_training_data
+* 基本影像像素顯示
+
+### HW250527-Image_Classification_Problems
+* LeNet
+* AlexNet
+* VGG
+
+### HW250603-Object_Detection_by_RCNN
+* VGG + RCNN
